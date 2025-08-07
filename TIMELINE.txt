@@ -4,4 +4,11 @@
 2.INSTALL  THIS PLUGGIN RESOLVER TANGKANO 
 -> npm install --save-dev babel-plugin-module-resolver
 
-3. 
+3. INSTALL REACT NAVIGATOR KUPALS 
+->npm install @react-navigation/native 
+
+4. INSTALL THIS REACT NATIVE SCREENS, REACT NATIVE SAFE-AREA-CONTEXT KOPALS!
+->npm install react-native-screens react-native-safe-area-context
+
+5. INSTALL NATIVE-STACK KOPALS!
+->npm install @react-navigation/native-stack
