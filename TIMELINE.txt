@@ -1,0 +1,7 @@
+1. INSTALL ALL THE PREREQUISITE 
+-> npx @react-native-community/cli@latest init ReactNativeCliFundamentals(or pangalan saimong folder kupals)
+
+2.INSTALL  THIS PLUGGIN RESOLVER TANGKANO 
+-> npm install --save-dev babel-plugin-module-resolver
+
+3. 
